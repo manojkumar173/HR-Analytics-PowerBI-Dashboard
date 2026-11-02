@@ -26,6 +26,8 @@ The primary objective of this dashboard is to:
 
 ## 📷 Dashboard Preview
 
+![Home Page](Home_Page.png)
+
 The project consists of **7 interactive Power BI dashboard pages**.
 
 ### 🏠 1. Employee Life Cycle
