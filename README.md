@@ -29,6 +29,7 @@ The primary objective of this dashboard is to:
 The project consists of **7 interactive Power BI dashboard pages**.
 
 ### 🏠 1. Employee Life Cycle
+![Home Page](Employee_Life_Cycle.png)
 
 The main landing page of the dashboard, providing navigation to all HR analytical sections through an interactive employee lifecycle layout.
 
