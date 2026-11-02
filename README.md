@@ -33,7 +33,9 @@ The project consists of **7 interactive Power BI dashboard pages**.
 
 The main landing page of the dashboard, providing navigation to all HR analytical sections through an interactive employee lifecycle layout.
 
+
 ### 📊 2. HR at a Glance
+![HR at a Glance](HR%20at%20a%20Glance.png)
 
 Provides a high-level overview of the organization's workforce using key HR KPIs.
 
@@ -47,7 +49,9 @@ Provides a high-level overview of the organization's workforce using key HR KPIs
 - Location-wise Employee Distribution
 - Termination Analysis
 
+
 ### 👥 3. Workforce & Demographics
+![Workforce & Demographics](Workforce%20%26%20Demographics.png)
 
 Analyzes workforce composition and employee demographics.
 
@@ -60,7 +64,9 @@ Analyzes workforce composition and employee demographics.
 - Average Tenure by Department
 - Location-based Workforce Distribution
 
+
 ### 🧑‍💼 4. Employee Profile
+![Employee Profile](Employee%20Profile.png)
 
 Provides an interactive employee-level profile to explore individual employee information.
 
@@ -73,7 +79,9 @@ Provides an interactive employee-level profile to explore individual employee in
 - Employment Details
 - Employee Location
 
+
 ### 💰 5. Salary & Performance
+![Salary & Performance](Salary%20%26%20Performance.png)
 
 Analyzes employee compensation and salary distribution across the organization.
 
@@ -85,7 +93,9 @@ Analyzes employee compensation and salary distribution across the organization.
 - Location-wise Salary Analysis
 - Job Title-wise Average Salary
 
+
 ### 📅 6. Attendance & Attrition
+![Attendance & Attrition](Attendance%20%26%20Attrition.png)
 
 Monitors employee attendance, leave patterns, and workforce attrition.
 
@@ -99,7 +109,9 @@ Monitors employee attendance, leave patterns, and workforce attrition.
 - Exit Analysis by Reason and Type
 - Leave Type Distribution
 
+
 ### 🎯 7. Recruitment & Hiring
+![Recruitment & Hiring](Recruitment%20%26%20Hiring.png)
 
 Analyzes recruitment activities and hiring performance across departments.
 
